@@ -10,8 +10,7 @@ Never email yourself again! Built for <a href="https://hackindia.io">HackIndia`1
   
   
 # Team Mmebers
-  <ul>
-    <li>Ashish Sharma</ul>
+  <ul><li>Ashish Sharma</ul>
     <li>Sai Bharath</ul>
     <li>Girish Rawat</ul>
     <li>Anav Rastogi</li>
