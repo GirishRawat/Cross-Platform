@@ -9,7 +9,7 @@ Never email yourself again! Built for <a href="https://hackindia.io">HackIndia`1
   </ul>
   
   
-  # Team Mmebers
+# Team Mmebers
   <ul>
     <li>Ashish Sharma</ul>
     <li>Sai Bharath</ul>
@@ -18,10 +18,10 @@ Never email yourself again! Built for <a href="https://hackindia.io">HackIndia`1
   </ul>
   
   
-  # Future of this Project
+# Future of this Project
   Would like toimprove the UI and enable file compression for speedy uploads.
   
   
   
-  # TRY IT
+# TRY IT
   <a href="www.crossplatform.co.nr">Cross Platform</a>
