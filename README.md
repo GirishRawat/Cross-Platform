@@ -23,4 +23,4 @@ Never email yourself again! Built for <a href="https://hackindia.io">HackIndia`1
   
   
 # TRY IT
-  <a href="www.crossplatform.co.nr">Cross Platform</a>
+  <a href="http://www.crossplatform.co.nr">Cross Platform</a>
